@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\Testes\Testes\obj\Debug\Testes.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\Testes\Testes\obj\Debug\Testes.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Testes\Testes\bin\Debug\Testes.exe.config
+C:\Users\nicol\source\repos\Testes\Testes\bin\Debug\Testes.exe
+C:\Users\nicol\source\repos\Testes\Testes\bin\Debug\Testes.pdb
+C:\Users\nicol\source\repos\Testes\Testes\obj\Debug\Testes.exe
+C:\Users\nicol\source\repos\Testes\Testes\obj\Debug\Testes.pdb
